@@ -5,7 +5,7 @@ Heres link to my info page link https://imagevault.cloud/UPWTCS.com<br>
 <br>
         USERS<br>
         <br>
-Rhiyard James RJ1904005<br>               
+Rhiyard James RJ1904005              
 Saskia Isiaacs SI0111006<br>
 Dukiful Osman DO008004<br>
 Channy Dor CI1004001<br>
