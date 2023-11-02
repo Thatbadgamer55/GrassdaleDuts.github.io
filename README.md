@@ -1,7 +1,7 @@
 # Grassdale Secrets.github.io
 -made by Briadon-<br>
 :smile:<br>These are our usernames :smile:
-<br>Heres link to my info page link https://imagevault.cloud/UPWTCS.com
+Heres link to my info page link https://imagevault.cloud/UPWTCS.com<br>
 <br>
         USERS<br>
         <br>
