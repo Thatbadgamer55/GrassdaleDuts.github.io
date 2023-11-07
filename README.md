@@ -10,13 +10,14 @@ Saskia Isiaacs SI0111006      Grade 10A<br>
 Dukiful Osman DO008004        Grade 10A<br>
 Channy Dor CI1004001          Grade 10A	<br>
 Uzair Abrams MA0412012	      Grade 10A<br>
+Waylin Adams WA2502002        Grade 10A<br>
         unknown AD1905007<br>
          unknown JI2901004/005<br>
                 unknown MD1704005<br>
              unknown DM1705004<br>
         unknown KP1610008<br>
 Tyler Addonis TA2712007		Grade 10A<br>
-        unknown CM2505024<br>
+Cody Miller CM2505024           Grade 10A<br>
              unknown LB1711014<br>
              unknown JD1110006<br>
         unknown MA2108010<br>
