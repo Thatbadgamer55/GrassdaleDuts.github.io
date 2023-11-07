@@ -3,7 +3,8 @@
 <div style=“background-color: rgb(50, 50, 50);”>
 :smile:<br>These are our usernames :smile:
 Heres link to my info page link https://imagevault.cloud/UPWTCS.com<br>
-<br><img src=“https://static.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg” width=“50%” height=“50%” style=“display: block; margin: 0 auto;”>
+<br>
+
         USERS<br>
         <br>
 Rhiyard James RJ1904005       Grade 10A       
