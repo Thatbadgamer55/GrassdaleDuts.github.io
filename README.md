@@ -1,10 +1,9 @@
 # Grassdale Secrets.github.io
 -made by Briadon-<br>
-<div style=“background-color: rgb(50, 50, 50);”>
 :smile:<br>These are our usernames :smile:
 Heres link to my info page link https://imagevault.cloud/UPWTCS.com<br>
 <br>
-
+<br>
         USERS<br>
         <br>
 Rhiyard James RJ1904005       Grade 10A       
